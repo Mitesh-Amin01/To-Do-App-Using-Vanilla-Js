@@ -401,7 +401,7 @@ Feel free to fork and open pull requests. Please ensure code is clean and well c
 
 ## License
 
-MIT License © 2025 Your Name
+License © 2025 Mitesh
 
 ---
 
